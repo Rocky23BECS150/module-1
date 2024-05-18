@@ -1,0 +1,16 @@
+body {
+    background-color: lightblue;
+  }
+  
+  h1 {
+    color: rgb(255, 25, 25);
+    margin-left: 20px;
+  }
+  
+  p {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 100%;
+    font-weight: normal;
+    font-style: italic;
+    color: rgb(72, 16, 203);
+  }
